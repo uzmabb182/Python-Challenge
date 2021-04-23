@@ -1,0 +1,10 @@
+                                                                                   
+                        "Election Data Analysis Summary"                           
+-----------------------------------------------------------------------------------
+The total number of votes cast are: 3521001
+The complete list of candidates who recieved votes are: ['Khan', 'Correy', 'Li', "O'Tooley"]
+The percentage of votes each candidate won are: ['63.000', '20.000', '14.000', '3.000']
+The total number of votes each candidate won are: [2218231, 704200, 492940, 105630]
+------------------------------------------------------------------------------------
+The winner of the election based on popular votes is: Khan
+------------------------------------------------------------------------------------
